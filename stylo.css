@@ -1,0 +1,51 @@
+html{
+    background-color:rgb(219, 228, 228);
+}
+.title{
+    font-size: 60px;
+    width: 100%;
+    
+    font-family: pacifico;
+    font-weight: 100;
+    background-color:rgba(242, 182, 108, 0.685);
+    text-align: center;
+    
+    padding: 0px;
+    border-style:unset;
+    color: rgb(0, 0, 0);
+    
+}
+/* .title{
+    padding:50px;
+} */
+/* 
+#part1{
+   text-align: center;
+   margin-top: 10px;
+   font-size: 40px;
+   font-family: Chewy;
+   font-weight: 100;
+}
+#part2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :30px;
+    font-size: 30px;
+}
+#part3{
+    position: relative;
+    left: 500px;
+    bottom: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+} */
+.specialties{
+    display:flex;
+    flex-direction: column;
+}
+
+
+
+
+
